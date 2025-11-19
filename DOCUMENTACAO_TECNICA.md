@@ -2,7 +2,7 @@
 ## Teste Técnico Bernhoeft GRT
 
 **Candidato:** Thales Augusto Dias  
-**Data:** Dezembro 2024  
+**Data:** Novembro - 2025,
 **Stack:** .NET 9, Vue.js 3, PrimeVue 4
 
 ---
