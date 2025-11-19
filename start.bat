@@ -71,10 +71,10 @@ start "Bernhoeft GRT - Frontend" cmd /k "cd 5-Web\avisos-frontend && npm run dev
 echo.
 echo Abrindo navegador em 10 segundos...
 timeout /t 10 /nobreak >nul
-start http://localhost:5000/swagger
+start http://localhost:5001/swagger
 timeout /t 2 /nobreak >nul
-start http://localhost:3000
+start http://localhost:3001
 
 echo.
-echo Tudo pronto! Boa apresentacao!
+echo Tudo pronto!
 pause
