@@ -56,9 +56,9 @@ echo ================================================
 echo   Aplicacao iniciada com sucesso!
 echo ================================================
 echo.
-echo API Backend:  http://localhost:5000
-echo Swagger:      http://localhost:5000/swagger
-echo Frontend:     http://localhost:3000
+echo API Backend:  http://localhost:5001
+echo Swagger:      http://localhost:5001/swagger
+echo Frontend:     http://localhost:3001
 echo.
 echo Pressione Ctrl+C em cada janela para parar
 echo ================================================
