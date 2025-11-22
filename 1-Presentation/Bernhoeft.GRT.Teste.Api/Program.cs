@@ -4,6 +4,7 @@ using System.Text.Json.Serialization;
 using Bernhoeft.GRT.Core.Extensions;
 using Bernhoeft.GRT.Teste.Api.Swashbuckle;
 using Bernhoeft.GRT.Teste.Application.Requests.Queries.v1;
+using Bernhoeft.GRT.Teste.Infra.Persistence.InMemory.Microsoft.Extensions.DependencyInjection;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using MicroElements.Swashbuckle.FluentValidation.AspNetCore;
